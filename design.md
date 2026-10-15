@@ -146,10 +146,4 @@ For a route, **total path cost = sum of the kilometre distances of its directed 
 **Minimum for the defined illustrative directed graph: 349 km**, via Nairobi → Naivasha → Gilgil → Nakuru → Londiani → Muhoroni → Kisumu. Calculation: 87 + 31 + 49 + 63 + 58 + 61 = **349 km**. The comparison via Kericho gives 87 + 31 + 49 + 63 + 48 + 41.1 + 29 + 28 = **376.1 km**.
 
 **Limitation:** These inputs combine previously collected published distance estimates with explicitly assumed distances and do not meet the exercise’s instruction to measure every edge in Google Maps. 
-## Groupwork evidence
 
-[Insert authentic meeting minutes or group photo and the list of participating members.]
-
-## GitHub
-
-Use the repository name `PS-Agents` and file name `design.md`. Each contributing member forks the original; submit the original repository link.
