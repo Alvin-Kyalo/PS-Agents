@@ -148,4 +148,4 @@ For a route, **total path cost = sum of the kilometre distances of its directed 
 **Limitation:** These inputs combine previously collected published distance estimates with explicitly assumed distances and do not meet the exercise’s instruction to measure every edge in Google Maps. 
 ### Group Photograph
 
-![Group Members](images/Group-Photo.png)
+![Group Members](images/group-photo.png)
