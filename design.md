@@ -148,4 +148,41 @@ For a route, **total path cost = sum of the kilometre distances of its directed 
 **Limitation:** These inputs combine previously collected published distance estimates with explicitly assumed distances and do not meet the exercise’s instruction to measure every edge in Google Maps. 
 ### Group Photograph
 
-![Group Members](images/group-photo.png)
+## Evidence of Groupwork
+
+### Meeting Minutes — AI Practical Exercise 3
+
+**Course:** ICS 3202 — Artificial Intelligence  
+**Topic:** Designing a Searching Agent  
+**Date:** Thursday, 15 October 2026  
+**Time:** 5:45 PM – 6:12 PM  
+**Venue:** Gazebo outside STMB, Strathmore University
+
+### Members Present
+
+| Student ID | Name |
+|---|---|
+| 168049 | Kipngeno Brian |
+| 190119 | Sean Muthomi |
+| 192085 | Alvin Kyalo |
+
+### Agenda
+1. Discuss the self-driving trailer agent and PEAS framework.
+2. Develop the directed graph and search tree.
+3. Evaluate possible routes from Nairobi to Kisumu.
+4. Organize the assignment for GitHub submission.
+5. AOB if theres any
+
+### Discussion and Outcomes
+
+1. **Agent Design:** Discussed the PEAS framework and classified the self-driving trailer's environment using the five environment characteristics.
+
+2. **Graph and Search Tree:** Considered different highway routes from Nairobi to Kisumu, including routes through Nakuru, Kericho, Muhoroni, Narok and Eldoret. Also discussed the way to build the trees and graph and what to leave out 
+
+3. **Route Optimization:** Discussed using road distances as path costs and applying a shortest-path search algorithm to identify the most suitable route.
+
+4. **GitHub Submission:** Reviewed the requirement to prepare the assignment in `design.md` within the `PS-Agents` repository and ensure all members fork the repository.We also contemplated whether we should include all the processes thay we did when it came with making of the tables
+
+### Conclusion
+
+The group agreed to finalize the diagrams, review the route calculations and complete the GitHub submission requirements.
